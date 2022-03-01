@@ -1,0 +1,47 @@
+list는 반드시 부모 list를 포함한다
+부모 태그는 자식태그를 분명히 가지고있다
+
+<ul>
+<li>asdasda
+</li>
+</ul>
+
+--------------------
+
+인덱싱을 하면서 예를 들어 1 2 3 에서 1이 빠졌을 때 
+
+ol : ordered list
+
+ul: unordered list
+<ol>
+
+</ol>
+
+
+<title> </title>
+책 표지와 같은 정보
+meta 
+charset : charecter set
+
+본문을 설명하는 위의 태그는 head로 묶기로했음
+본문을 body로 묶기로 약속했음
+
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+
+링크는 태그명이 <a>'
+새 탭으로 열기
+링크 만들기
+링크로 넘어가는 새 페이지에 타이틀달기
+
+
+
+
+
+
+
